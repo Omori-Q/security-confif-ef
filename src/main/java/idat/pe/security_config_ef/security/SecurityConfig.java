@@ -53,4 +53,3 @@ public class SecurityConfig {
         return http.build();
     }
 }
-// como hago para que por default me envie al /hola cuando me logeo, pasame el codigo  }

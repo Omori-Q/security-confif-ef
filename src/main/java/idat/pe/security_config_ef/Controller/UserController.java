@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class UserController {
     @GetMapping("/hola")
-    public String saludar() {
+    public String saludando() {
         return "¡Hola, estás autenticado!";
     }
 
